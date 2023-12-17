@@ -115,6 +115,10 @@ function clearInputFieldEl() {
 
 inputFieldEl.value = ""
 
+fromEl.value = ""
+
+toEl.value = ""
+
 }
 
 
