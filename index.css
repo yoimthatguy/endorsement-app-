@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Josefin+Sans:wght@400;700&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1b1924;
+    color: #fff;
+    text-align: center;
+}
+.container {
+    width: 320px;
+    display: block;
+    margin: 20px auto;
+    position: relative;
+}
+img {
+    height: 90px;
+    width: 90px;
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+    color: white;
+    font-size: 25px;
+    font-family: Josefin Sans;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+h2 {
+    color: white;
+    font-size: 20px;
+    font-family: Josefin Sans;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin: 25px 0;
+    padding: 0;
+}
+input {
+    //width: 100%;
+    height: 120px;
+    background: #444059; 
+    border-radius: 8px;
+    border: 0;
+    color: #8F8F8F;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    padding: 20px
+}
+button {
+    color: #04131C;
+    background-color: #28A9F1;
+    font-size: 22px;
+    font-family: Josefin Sans;
+    font-weight: 700;
+    word-wrap: break-word;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #04131C;
+    font-size: 22px;
+    font-family: Josefin Sans;
+    font-weight: 700;
+    word-wrap: break-word;
+    padding: 15px;
+    border: 0;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+ul {
+    display: block;
+    margin-left: -40px;
+    display: block;
+    width: 100%;
+    
+}
+ul li {
+    color: #1B1924;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    color: #1B1924;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    background-color: #fff;
+    text-align: left;
+    padding: 25px 15px;
+    margin: 15px 0;
+    display: block;
+}
+
